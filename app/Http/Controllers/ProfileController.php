@@ -74,3 +74,4 @@ class ProfileController extends Controller
         return Redirect::to('/');
     }
 }
+// ini adalah contoh dari kegiatan dalam membuat video ntuk mata kuliah etika profesi, hmm bismillah bisa
